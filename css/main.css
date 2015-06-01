@@ -1,0 +1,12 @@
+body {
+	background-color: lightblue;
+}
+
+div {
+	background-color: yellow;
+	padding: 2em;
+	width: 5em;
+	margin: 0 auto;
+	font-size: 1.2em;
+
+}
